@@ -3,6 +3,7 @@ package task2;
 import java.util.Scanner;
 
 public class playerLogic {
+	
     public static String[][] setPlayerTurn(String[][] array) {
         Boolean flag=true;
         while (flag) {
