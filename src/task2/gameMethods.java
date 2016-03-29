@@ -1,8 +1,5 @@
 package task2;
 
-/**
- * Created by Type_A on 29.03.2016.
- */
 public class gameMethods {
     public static void printTable(String array[][]) {
         System.out.println("-------------");

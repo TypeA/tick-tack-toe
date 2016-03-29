@@ -25,8 +25,8 @@
       <file leaf-file-name="gameMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task2/gameMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -35,14 +35,14 @@
       <file leaf-file-name="basicAiLogic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task2/basicAiLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/task2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="playerLogic.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="playerLogic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/task2/playerLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -87,10 +87,10 @@
         <option value="C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class" />
         <option value="$PROJECT_DIR$/src/task2/gameLogic/gameMethods.java" />
         <option value="$PROJECT_DIR$/src/task2/aiLogic/basicAiLogic.java" />
+        <option value="$PROJECT_DIR$/src/task2/Main.java" />
+        <option value="$PROJECT_DIR$/src/task2/playerLogic.java" />
         <option value="$PROJECT_DIR$/src/task2/gameMethods.java" />
         <option value="$PROJECT_DIR$/src/task2/basicAiLogic.java" />
-        <option value="$PROJECT_DIR$/src/task2/playerLogic.java" />
-        <option value="$PROJECT_DIR$/src/task2/Main.java" />
       </list>
     </option>
   </component>
@@ -739,26 +739,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2/gameMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task2/basicAiLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2/playerLogic.java">
+    <entry file="file://$PROJECT_DIR$/src/task2/gameMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -770,6 +762,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task2/playerLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

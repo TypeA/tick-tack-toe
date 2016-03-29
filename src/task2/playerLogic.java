@@ -2,9 +2,6 @@ package task2;
 
 import java.util.Scanner;
 
-/**
- * Created by Type_A on 29.03.2016.
- */
 public class playerLogic {
     public static String[][] setPlayerTurn(String[][] array) {
         Boolean flag=true;
